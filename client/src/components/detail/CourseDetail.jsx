@@ -12,8 +12,8 @@ import { useParams } from "react-router-dom";
 import Navbar from "../navbar/Navbar";
 import Footer2 from "../footer/Footer2";
 
-import CardReview from "../review/cardReview";
-import PostReview from "../review/postReview";
+import CardReview from "../Review/cardReview";
+import PostReview from "../Review/postReview";
 import {
   Box,
   Button,
